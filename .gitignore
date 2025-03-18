@@ -1,8 +1,10 @@
 # 특정 파일 제외
 
 # 특정 폴더 제외
-learn/results/
-learn/logs/
 
 # 확장자별로 제외
-# *.log
+# *.loglearn/logs/
+learn/results/
+learn/train.log
+*.tfevents.*
+*.pt
