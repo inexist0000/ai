@@ -21,4 +21,6 @@ pip show transformers
 pip show tokenizers
 script -f /home/sinishiyeo/AI/terminal_log.txt
 
-nohup python test.py > test.log 2>&1 &# ai
+nohup python test.py > test.log 2>&1 &
+# ai
+SO0 Qqpp0099
